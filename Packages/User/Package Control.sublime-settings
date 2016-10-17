@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Block Cursor Everywhere",
+		"Boxy Theme",
+		"Color Highlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"JSX",
+		"LESS",
+		"Material Theme",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Seti_UI",
+		"Seti_UX",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"Surround",
+		"SyncedSideBar",
+		"Themr",
+		"Three.js Autocomplete",
+		"Vintage Surround"
+	]
+}

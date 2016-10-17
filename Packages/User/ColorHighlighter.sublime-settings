@@ -1,0 +1,8 @@
+{
+    "style": "Filled",
+    "icons": true,
+    "ha_style": "Filled",
+    "ha_icons": true,
+    "default_keybindings": true,
+    "convert_util_path" : "convert",
+}
